@@ -1,1 +1,3 @@
-
+Used CNNs (Convolutional Neural Networks) to turn photos into paintings in the style of our favorite classical artist. 
+For this purpose, we’ll use TensorFlow in combination with Keras.
+TensorFlow is a free open-source software library developed by Google, especially useful for machine learning tasks.
